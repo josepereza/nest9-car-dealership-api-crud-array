@@ -23,7 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+* Curso udemy nestjs  de Fernando Herrera
+* Contine 2 branch : main (leccion4) y leccion5 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
